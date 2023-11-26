@@ -57,5 +57,9 @@ class card {
     image(img,x,y,150,200);
     
   }
+  
+  int getVal(){
+    return number;
+  }
     
 }
